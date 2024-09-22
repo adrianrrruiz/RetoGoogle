@@ -1,0 +1,25 @@
+.barra{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+
+}
+
+.barra ul li{
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+.final{
+    display: flex;
+    justify-content: end;
+    flex-direction: row;
+    align-items: end;
+}
+.final ul li{
+    display: inline;
+}
